@@ -1,0 +1,83 @@
+body {
+    padding-top: 50px;
+    background-color: rgb(91, 101, 110);
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    display: flex;
+    border-radius: 15px;
+    background-color: #e0dfdf;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px 0px rgb(255, 255, 255);
+    margin-bottom: 50px;
+}
+
+.cv {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.photo {
+    border-radius: 5px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+
+}
+
+.photo2 {
+    border-radius: 5px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+
+}
+
+
+.social-links {
+    margin-top: 20px;
+    /* sosyal medya linklerinden üstteki boşluk */
+    text-align: center;
+
+}
+
+.carousel {
+    position: absolute;
+    margin-top: 50px;
+    left: 35%;
+    width: 500px;
+    height: 333px;
+    box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+
+}
+
+.container-harita {
+    display: flex;
+    border-radius: 15px;
+    background-color: #e0dfdf;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px 0px rgb(255, 255, 255);
+    margin-bottom: 50px;
+    margin-top: 450px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.container-takim {
+    display: flex;
+    border-radius: 15px;
+    background-color: #e0dfdf;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px 0px rgb(255, 255, 255);
+    margin-bottom: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.social-takim {
+    margin-top: 20px;
+    text-align: center;
+}
